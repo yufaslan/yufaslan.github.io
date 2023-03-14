@@ -47,7 +47,7 @@ url: http://yufaslan.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "https://github.com/yufaslan/yufaslan.github.io/blob/cdaf854f8c52e68b5d1a9f590896ff988c486d27/2%20AFAD%20DEPREM%20L%C4%B0STES%C4%B0.ipynb"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
